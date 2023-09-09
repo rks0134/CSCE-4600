@@ -46,6 +46,8 @@ The scheduler will be written in [Go](https://go.dev/) (a skeleton main.go is in
 
 
 ## Deliverables
+<img width="1512" alt="Screenshot 2023-09-09 at 11 36 43 AM" src="https://github.com/rks0134/CSCE-4600/assets/102979656/b680ac6e-6f53-4a67-82b5-7320e435f39b">
+<img width="1512" alt="Screenshot 2023-09-09 at 11 39 51 AM" src="https://github.com/rks0134/CSCE-4600/assets/102979656/dc5dd2a9-1189-46d0-be09-f306a6ba7695">
 
 A GitHub link to your project which includes:
 
